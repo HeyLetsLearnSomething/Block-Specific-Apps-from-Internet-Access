@@ -15,10 +15,10 @@ NoNet is an Android app that blocks internet access for selected apps. For examp
 
 ### ❓ FAQ
 - **How does this app differ from others?**
-  NoNet is user-friendly, enabling quick listing and management of blocked apps across all internet connections.
+  - NoNet is user-friendly, enabling quick listing and management of blocked apps across all internet connections.
 
 - **Does this app contain advertisements?**
-  No, it's a new app and completely ad-free, ensuring a seamless user experience.
+  - No, it's a new app and completely ad-free, ensuring a seamless user experience.
 
 ### More Apps from Us
 Explore more apps from [ideasToCode](https://play.google.com/store/apps/developer?id=ideasToCode).
