@@ -1,7 +1,7 @@
 ## NoNet: Easily Block Specific Apps from Internet Access on Android
 
 Download the app: [Google Play Store](https://play.google.com/store/apps/details?id=com.ideastocode.nonet).
-
+```bash
 [NoNet](https://play.google.com/store/apps/details?id=com.ideastocode.nonet) is an Android app that blocks internet access for selected apps. For example, if you wish to block specific games, YouTube, or any other app while allowing internet access for others, NoNet is the ideal tool. It's a free and efficient AppBlocker for Android phones.
 
 ### 📺 Watch the Demo
